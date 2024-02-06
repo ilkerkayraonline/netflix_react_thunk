@@ -1,8 +1,8 @@
 <h1>NETFLIX REACT THUNK</h1>
 
-Bu projede, React kullanarak Netflix tarzında bir web sitesi geliştirdim ve birçok harika özelliği sizinle paylaşmak istiyorum:
+Bu projede, React kullanarak Netflix tarzında bir web sitesi geliştirdim ve birçok harika özelliği sizinle paylaşmak istiyorum: </br>
 
-🔹 Kullanılan Kütüphaneler:
+🔹 Kullanılan Kütüphaneler: </br>
 
 react-router-dom - Sayfa yönlendirmesi için kullanıldı.
 axios - API istekleri için kullanıldı.
@@ -10,8 +10,8 @@ bootstrap - Hızlı ve duyarlı tasarımlar için kullanıldı.
 @splidejs/react-splide - Film afişlerini kaydırmak için kullanıldı.
 redux ve react-redux - Uygulama durumu yönetimi için kullanıldı.
 redux-thunk - Asenkron işlemleri yönetmek için kullanıldı.
-iframe - Video oynatıcı olarak kullanıldı.
-🔹 Site Özellikleri:
+iframe - Video oynatıcı olarak kullanıldı. </br>
+🔹 Site Özellikleri: </br>
 
 API entegrasyonu sayesinde tüm içerikler dinamik olarak çekilir ve ana sayfada kategori olarak listelenir.
 Kategoriye ait film afişlerini sağa veya sola kaydırarak kolayca gezinebilirsiniz.
