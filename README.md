@@ -1,5 +1,7 @@
 <h1>NETFLIX REACT THUNK</h1>
 
+![](netflix.gif)
+
 Bu projede, React kullanarak Netflix tarzında bir web sitesi geliştirdim ve birçok harika özelliği sizinle paylaşmak istiyorum: </br>
 
 🔹 Kullanılan Kütüphaneler: </br>
